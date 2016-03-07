@@ -1,0 +1,30 @@
+c:\users\20140206\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+Z:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Z:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Z:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Louis\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Windows1.resources
+C:\Users\lpoui\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csproj.GenerateResource.Cache
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.ChatWindow.resources
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csproj.GenerateResource.Cache
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lpoui\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Connection.resources
